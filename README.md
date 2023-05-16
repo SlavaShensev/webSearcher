@@ -1,6 +1,6 @@
 # WebSearch
 
-WebSearch is a simple React Native application that fetches a list of websites from a server, allows the user to choose one to visit, and then retrieves and stores the copyright information from the selected website.
+WebSearch is an intuitive React Native application, developed as a part of a job assignment. It fetches a list of websites from a predefined server, enabling users to select a website, visit it, and subsequently retrieve and store the copyright information from their chosen site.
 
 1. Clone the repository:
     'git clone git@github.com:SlavaShensev/webSearcher.git'
